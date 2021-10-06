@@ -2,8 +2,8 @@
 ### `Autor`: Miguel García
 ### `Asignatura`: Base de Datos
 
-En este Proyecto veremos como usar TypeScript y Node.js
-Aparte crearemos una calculadora
+En este Proyecto veremos como usar TypeScript y Node.js,
+tambien crearemos una calculadora
 
 | Carpeta           | Info         |
 |-------------------|--------------|
